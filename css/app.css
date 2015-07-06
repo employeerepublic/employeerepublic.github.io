@@ -39,8 +39,6 @@ body .row img {
 
 .videocontainer {
   position: relative;
-  width: 500px;
-  height: 281px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -60,41 +58,41 @@ footer {
 
 @media (max-width: 449px) {
   .videocontainer {
-    width: 300px;
-    height: 169px;
+    width: 288px;
+    height: 162px;
   }
 }
 @media (min-width: 450px) and (max-width: 599px) {
   .videocontainer {
-    width: 400px;
-    height: 225px;
+    width: 432px;
+    height: 243px;
   }
 }
 
 @media (min-width: 600px) and (max-width: 799px) {
   .videocontainer {
-    width: 500px;
-    height: 281px;
+    width: 576px;
+    height: 324px;
   }
 }
 
 @media (min-width: 800px) and (max-width: 1023px) {
   .videocontainer {
-    width: 600px;
-    height: 338px;
+    width: 720px;
+    height: 405px;
   }
 }
 
 @media (min-width: 1024px) and (max-width: 1199px) {
   .videocontainer {
-    width: 800px;
-    height: 450px;
+    width: 864px;
+    height: 486px;
   }
 }
 
 @media (min-width: 1200px) {
   .videocontainer {
-    width: 1000px;
-    height: 563px;
+    width: 1008px;
+    height: 567px;
   }
 }
